@@ -5,3 +5,14 @@ border-color: blue;
 border-width: 2px;
 border-background-color: blue;
 }
+#divn {
+  border-color: brown;
+  border-width: 5px;
+  background-color: darkorange;
+  position:absolute;
+    top: 30;
+    left: 40;
+
+
+
+}
